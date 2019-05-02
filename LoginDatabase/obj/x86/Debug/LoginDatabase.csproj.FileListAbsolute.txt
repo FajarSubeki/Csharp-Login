@@ -1,0 +1,10 @@
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\obj\x86\Debug\LoginDatabase.Form1.resources
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\obj\x86\Debug\LoginDatabase.Properties.Resources.resources
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\obj\x86\Debug\LoginDatabase.csproj.GenerateResource.Cache
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\bin\Debug\LoginDatabase.exe
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\bin\Debug\LoginDatabase.pdb
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\obj\x86\Debug\LoginDatabase.exe
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\obj\x86\Debug\LoginDatabase.pdb
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\obj\x86\Debug\LoginDatabase.Form2.resources
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\obj\x86\Debug\LoginDatabase.csprojResolveAssemblyReference.cache
+D:\Kodingan\C#\LoginDatabase\LoginDatabase\bin\Debug\Bunifu_UI_v1.5.3.dll
